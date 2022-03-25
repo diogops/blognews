@@ -1,0 +1,18 @@
+36:
+move styles->src
+install extension cssmodules
+install sass
+------------------------------
+37:
+custom document
+import font roboto
+import favicon
+------------------------------
+38:
+config globals.scss
+------------------------------
+39:
+header component
+logo e navbar
+_app - add header 
+
